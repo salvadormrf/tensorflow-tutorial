@@ -9,4 +9,7 @@ Deep Neural Network
 
 Convolutional Neural Network (CNN, or ConvNet)
 - basics
+- strides
+- dropout
+
 
